@@ -1,1 +1,2 @@
 linux相关脚本和工具
+编译ptrace-kmod命令需要改成gcc -B /usr/bin -o p ptrace-kmod.c
