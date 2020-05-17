@@ -1,0 +1,3 @@
+bootloader解锁之后进行刷机
+
+准备twrp和magisk
