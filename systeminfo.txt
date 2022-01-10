@@ -1,0 +1,54 @@
+
+Host Name:                 CNACLUWVDI002
+OS Name:                   Microsoft Windows Server 2016 Datacenter
+OS Version:                10.0.14393 N/A Build 14393
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:
+Registered Organization:   Aliyun
+Product ID:                00376-40000-00000-AA947
+Original Install Date:     10/29/2021, 4:41:12 PM
+System Boot Time:          1/10/2022, 5:46:15 PM
+System Manufacturer:       Alibaba Cloud
+System Model:              Alibaba Cloud ECS
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2500 Mhz
+BIOS Version:              SeaBIOS 8f19b21, 4/1/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi
+Total Physical Memory:     15,854 MB
+Available Physical Memory: 7,616 MB
+Virtual Memory: Max Size:  18,286 MB
+Virtual Memory: Available: 8,877 MB
+Virtual Memory: In Use:    9,409 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    aiaalifin.biz
+Logon Server:              \\SGCSPWDOM02
+Hotfix(s):                 12 Hotfix(s) Installed.
+                           [01]: KB5007152
+                           [02]: KB4049065
+                           [03]: KB4486129
+                           [04]: KB4535680
+                           [05]: KB4550994
+                           [06]: KB4562561
+                           [07]: KB4565912
+                           [08]: KB4576750
+                           [09]: KB4589210
+                           [10]: KB5001078
+                           [11]: KB5005698
+                           [12]: KB5008207
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Red Hat VirtIO Ethernet Adapter
+                                 Connection Name: Ethernet 3
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.199.34.253
+                                 IP address(es)
+                                 [01]: 10.199.34.56
+                                 [02]: fe80::8480:4c4:5bee:36fd
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
